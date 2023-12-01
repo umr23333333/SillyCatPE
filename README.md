@@ -52,6 +52,10 @@
 
 内置向日葵远程控制
 
+### 演示视频
+
+[戳这里](https://www.umr2333.com/2023/12/01/sillycatpe%e5%82%bb%e7%8c%ab%e5%a4%b4pe%ef%bc%89/)
+
 ### 食用方法
 
 自行[下载](https://d.umr2333.com/SillyCatPE.iso)刻录即可
