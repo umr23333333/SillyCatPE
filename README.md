@@ -19,8 +19,11 @@
 
 <p align="center">
   <a href="https://github.com/umr23333333/SillyCatPE/">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
+
+
+
 
   <h3 align="center">傻猫头PE！</h3>
   <p align="center">
